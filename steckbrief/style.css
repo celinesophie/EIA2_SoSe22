@@ -18,7 +18,7 @@ a:hover {
 /*Button*/
 button {
     background-color: rgb(145, 145, 145);
-    padding: 12px 32px;
+    padding: 5px 15px;
     text-align: center;
     border-radius: 10px;
     transition: 0.3s;
@@ -26,4 +26,9 @@ button {
 
 button:hover {
     background-color: rgb(59, 59, 59);
+}
+
+/* Text */
+.info {
+	font-size: 10px;
 }
