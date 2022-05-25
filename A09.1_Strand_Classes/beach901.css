@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(197, 230, 233);
+}
+
+canvas {
+    background-color: white;
+    /* margin-left: 225px; */
+}
+
+h1 {
+    text-align: center;
+}
